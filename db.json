@@ -1,57 +1,57 @@
 {
-  "usuarios":[
-  {
-    "id": 1,
-    "user": "Jimmy",
-    "password": "1234",
-    "rol": "Administrador",
-    "icon": "https://cdn-icons-png.flaticon.com/512/2082/2082875.png",
-    "items": [
+   "usuarios": [
+      {
+         "id": 1,
+         "user": "Jimmy",
+         "password": "1234",
+         "rol": "Administrador",
+         "icon": "https://cdn-icons-png.flaticon.com/512/2082/2082875.png",
+         "items": [
             {
-                "itemid": "1",
-                "itemname": "Ajustes",
-                "itemurlicono": "15"
+               "itemid": "1",
+               "itemname": "Ajustes",
+               "itemurlicono": "15"
             },
             {
-                "itemid": "2",
-                "itemname": "Docentes",
-                "itemurlicono": "15"
+               "itemid": "2",
+               "itemname": "Docentes",
+               "itemurlicono": "15"
             },
             {
-                "itemid": "3",
-                "itemname": "Alumnos",
-                "itemurlicono": "15"
+               "itemid": "3",
+               "itemname": "Alumnos",
+               "itemurlicono": "15"
             },
             {
-                "itemid": "4",
-                "itemname": "Materias",
-                "itemurlicono": "15"
+               "itemid": "4",
+               "itemname": "Materias",
+               "itemurlicono": "15"
             }
-        ]
-  },
-  {
-    "id": 2,
-    "user": "Ana",
-    "password": "1234",
-    "rol": "Docente",
-    "icon": "https://cdn-icons.flaticon.com/png/512/1048/premium/1048950.png?token=exp=1660883991~hmac=f965a031bb18ab05f4386ee4c23d598a",
-      "items": [
+         ]
+      },
+      {
+         "id": 2,
+         "user": "Ana",
+         "password": "1234",
+         "rol": "Docente",
+         "icon": "https://cdn-icons.flaticon.com/png/512/1048/premium/1048950.png?token=exp=1660883991~hmac=f965a031bb18ab05f4386ee4c23d598a",
+         "items": [
             {
-                "itemid": "1",
-                "itemname": "Inicio",
-                "itemurlicono": "15"
+               "itemid": "1",
+               "itemname": "Inicio",
+               "itemurlicono": "15"
             },
             {
-                "itemid": "2",
-                "itemname": "Materias",
-                "itemurlicono": "15"
+               "itemid": "2",
+               "itemname": "Materias",
+               "itemurlicono": "15"
             },
             {
-                "itemid": "3",
-                "itemname": "Horarios",
-                "itemurlicono": "15"
+               "itemid": "3",
+               "itemname": "Horarios",
+               "itemurlicono": "15"
             }
-        ]
-  }
-]
+         ]
+      }
+   ]
 }
